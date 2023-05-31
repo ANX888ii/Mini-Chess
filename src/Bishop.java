@@ -1,4 +1,4 @@
-//version 11pmmm
+//version 11pmmmmm
 public class Bishop extends Piece {
     public Bishop(int x, int y, Side side, Board board) {
 
